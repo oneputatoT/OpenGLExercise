@@ -1,0 +1,19 @@
+﻿  Camera.cpp
+  LightDirectional.cpp
+  LightPoint.cpp
+  LightSpot.cpp
+  main.cpp
+E:\StudyGL\GLWorkA\main.cpp(189,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\StudyGL\GLWorkA\main.cpp(190,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\StudyGL\GLWorkA\main.cpp(194,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\StudyGL\GLWorkA\main.cpp(195,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\StudyGL\GLWorkA\main.cpp(197,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\StudyGL\GLWorkA\main.cpp(198,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\StudyGL\GLWorkA\main.cpp(388,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Material.cpp
+  Shader.cpp
+  正在生成代码...
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“E:\StudyGL\GLWorkA\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  GLWorkA.vcxproj -> E:\StudyGL\GLWorkA\Debug\GLWorkA.exe
